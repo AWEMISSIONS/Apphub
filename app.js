@@ -1,4 +1,5 @@
 const apps=[
+ {name:'REVEALED — Bible & History Challenge',category:'Faith & Ministry',icon:'📜',description:'605 Old Testament, New Testament and history question rounds with Scripture references, explanations and progress tracking.',url:'https://awemissions.github.io/Revealed/',fresh:true},
  {name:'Nearby Dining',category:'Food & Local',icon:'🍽',description:'Find nearby restaurants by cuisine, distance, or destination.',url:'https://awemissions.github.io/Near-by-dinning/',fresh:true},
  {name:'Watchmen Archive',category:'Faith & Ministry',icon:'🕊',description:'Daily Scripture-focused news and watch reports from AWE Missions.',url:'https://awemissions.github.io/Awe-faith/watchmen/'},
  {name:'Hidden in My Heart',category:'Faith & Ministry',icon:'💛',description:'Practice Scripture memory with verse-building, missing-word, and reference-match rounds.',url:'https://awemissions.github.io/Awe-faith/hidden-in-my-heart/'},
